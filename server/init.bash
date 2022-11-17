@@ -1,0 +1,2 @@
+# sequelize model:generate --name books --attributes book_name:string,book_author:string,book_description:string,raiting:integer,pages_read:integer
+sequelize model:generate --name quotes --attributes quote_body:string,book_id:integer

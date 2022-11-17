@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "uwicypfp",
+    "password": "XwqHLKuy1NV8cMlV8TmHC_J6NXla_Ui8",
+    "database": "uwicypfp",
+    "host": "peanut.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "uwicypfp",
+    "password": "XwqHLKuy1NV8cMlV8TmHC_J6NXla_Ui8",
+    "database": "uwicypfp",
+    "host": "peanut.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
